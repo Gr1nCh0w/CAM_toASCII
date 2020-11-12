@@ -7,9 +7,7 @@ Prérequis :
 https://www.python.org/downloads/
 
 - Commande PIP :<br>
-<code>sudo curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py</code>
-
-<code>sudo python get-pip.py</code>
+<code>sudo curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py</code><br><code>sudo python get-pip.py</code>
 
 - OpenCV Python :<br>
 <code>sudo pip install opencv-python</code>
